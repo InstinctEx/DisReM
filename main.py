@@ -95,6 +95,8 @@ Availaible commands are :
 
 --> !chrome = Steal and decrypts chrome passwords
 
+--> !firefox = Uploads firefox's passwords
+
 --> !shell = initiates a reverse shell
 
 --> !exit = Exit program
