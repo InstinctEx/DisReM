@@ -4,7 +4,7 @@ A python RAT that you can control via Discord made for the WhiteHacking Discord 
 
 
 # Commands
-Availaible commands are :
+Availaible commands are :<br />
 --> !message = Show a message box<br />
 --> !output = Execute a custom command that sends output<br />
 --> !custom = Execute a custom command that does not send any output<br />
