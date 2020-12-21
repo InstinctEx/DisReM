@@ -33,5 +33,6 @@ Availaible commands are :<br />
 --> !unblockinput = Unblocks user's keyboard and mouse<br />
 --> !screenshot = Get the screenshot of the user's current desktop screen<br />
 --> !chrome = Steal and decrypts chrome passwords<br />
+--> !firefox = Steal firefox passwords(no decrypting for now)<br />
 --> !shell = initiates a reverse shell<br />
 --> !exit = Exit program<br />
