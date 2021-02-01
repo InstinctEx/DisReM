@@ -1,6 +1,6 @@
 # DisReM
 
-A python RAT that you can control via Discord made for the WhiteHacking Discord Server application for Master Hacker
+A python RAT that you can control via Discord made purelly for educational purposes 
 
 
 # Commands
